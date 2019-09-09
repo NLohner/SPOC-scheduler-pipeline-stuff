@@ -1,0 +1,4 @@
+timezonefinder==4.1.0
+pytz==2019.1
+pandas==0.24.2
+datetime==4.3
