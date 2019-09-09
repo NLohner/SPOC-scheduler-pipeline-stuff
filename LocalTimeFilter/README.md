@@ -7,4 +7,4 @@ The script reads two .csv files named 'AccessTimes.csv' and 'SPOCTargetList.csv'
  
  The script writes the filtered passes to a new .csv named 'TimesFiltered.csv'
 
- To install required packages, run pip install -r requirements.txt
+ To install required packages, run "pip install -r requirements.txt"
