@@ -1,7 +1,4 @@
-This script filters target passes based on the\
- time of day local to the target. By default filters\
- passes outside of 9:00:00-17:00:00. This default can\
- be changed in the .env file.\
+This script filters target passes based on the time of day local to the target. By default filters passes outside of 9:00:00-17:00:00. This default can be changed in the .env file.
 
 The script reads two .csv files named 'AccessTimes.csv' and 'SPOCTargetList.csv'.
 'AccessTimes.csv' contains the time of each target pass and name of the target, and\
