@@ -5,6 +5,6 @@ The script reads two .csv files named 'AccessTimes.csv' and 'SPOCTargetList.csv'
  'SPOCTargetList.csv' contains the names of each target and the gps coordinates of \
  each point that defines the target.
  
- The script writes the filtered passes to a new .csv named 'TimesFiltered.csv'
+ The script writes the filtered passes to a new .csv named 'TimesFiltered.csv'.
 
- To install required packages, run "pip install -r requirements.txt"
+ To install required packages, run "pip install -r requirements.txt".
